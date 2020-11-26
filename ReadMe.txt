@@ -1,4 +1,4 @@
-__Author__=AbenezerMario, Yoonjae Gyae, 
+__Author__=AbenezerMario,
 __Title__=GroupProjectChat
 __Date__= 11/20/2020
 
