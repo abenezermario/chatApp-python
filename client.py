@@ -1,6 +1,6 @@
 
 """
-__Author__="Abenezer Mario, Yoonjae Gyae"
+__Author__="Abenezer Mario"
 __Title__= Group Project chat task 2
 __Date__="11/20/2020"
 Description: This file handles the client It uses 2 modules(Threading , and socket to create connection) 
