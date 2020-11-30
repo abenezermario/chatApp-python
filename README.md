@@ -1,6 +1,5 @@
 # chatApp-python
  __Author__=AbenezerMario
-__Title__=GroupProjectChat
 __Date__= 11/20/2020
 
 Description: 
@@ -9,7 +8,7 @@ Description:
 
 	used: 	
 		python3 
-	     	modules: Threading and Socet
+	     	modules: Threading and Socket
 Usage:
 	open terminal on the document file and then 
 		(1): python server.py
