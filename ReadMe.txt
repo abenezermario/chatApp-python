@@ -1,5 +1,4 @@
-__Author__=AbenezerMario,
-__Title__=GroupProjectChat
+__Author__=AbenezerMario
 __Date__= 11/20/2020
 
 Description: 
